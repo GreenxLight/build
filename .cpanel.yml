@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-  - export DEPLOYPATH=/home/walterde/cpanrepo
+  - export DEPLOYPATH=/home/walterde/repositories/test-deploy
   - /bin/cp * $DEPLOYPATH
